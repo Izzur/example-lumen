@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>New Age - Start Bootstrap Theme</title>
+    <title>Lumen</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{url('css/bootstrap.min.css')}}" rel="stylesheet">
